@@ -3,7 +3,7 @@
 
 # Capstone Project: Create a Customer Segmentation Report for Arvato Financial Services
 In this project, I analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. I used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Then, I used supervised machine learning techniques to predict which individuals are most likely to convert into becoming customers for the company.  
-I made a blog to shares my results. This is my blog post link: 
+I made a blog to shares my results. This is my blog post link: [blog post](https://oboukary.github.io/udacity_mle_nanodegree)
 
 ## Table of Contents
 1) Project Motivation <br>
