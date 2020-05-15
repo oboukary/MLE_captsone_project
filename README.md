@@ -1,4 +1,4 @@
-# MLE_captsone_project
+
 
 
 # Capstone Project: Create a Customer Segmentation Report for Arvato Financial Services
@@ -26,6 +26,8 @@ To practice and showcase unsupervised and supervised machine learning skills and
 
 **blog_images folder** - folder containing images used in my blog 
 
+**kaggle.csv** - My final resultats to submit on kaggle
+
 ## Libraries Required
 The code was written in python 3 and requires the following packages: 
 ```python
@@ -52,10 +54,10 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 ```
 ## Installation
-> Install xgboost by 
+> Install xgboost -- pip install xgboost
 
 ## Summary of Results
-See GitHub repo and personnol [blog post](https://oboukary.github.io/udacity_mle_nanodegree) for summary of results.  
+See GitHub repo and personnal [blog post](https://oboukary.github.io/udacity_mle_nanodegree) for summary of results.  
 
 ## Licenses and Acknowledgements
 This project was completed as part of the Udacity machine learning Nanodegree.
