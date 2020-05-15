@@ -55,7 +55,7 @@ from sklearn.cluster import KMeans
 > Install xgboost by 
 
 ## Summary of Results
-See GitHub repo and Medium blog post (https://oboukary.github.io/udacity_mle_nanodegree) for summary of results.  
+See GitHub repo and personnol [blog post](https://oboukary.github.io/udacity_mle_nanodegree) for summary of results.  
 
 ## Licenses and Acknowledgements
 This project was completed as part of the Udacity machine learning Nanodegree.
